@@ -4,15 +4,18 @@
 
 Per [L2/19-212R](https://www.unicode.org/L2/L2019/19212r-n5069r-radical.pdf) (aka [WG2 N5069R](https://unicode.org/wg2/docs/n5069r-NewFontForCJKRadicals.pdf)), the use of this font for producing the two referenced [Unicode](https://unicode.org/) code chart blocks is currently under consideration.
 
-## Building the font from source
+
+In addition to a functional OpenType/CFF font, a TrueType (TTF) version is also included.
+
+## Building the fonts from source
 
 ### Requirements
 
-To build the CID-keyed OpenType/CFF font from source, you need to have installed the [Adobe Font Development Kit for OpenType](https://github.com/adobe-type-tools/afdko/) (AFDKO) tools. The AFDKO tools are widely used for font development today, and are part of most font editor apps.
+To build the binary font files from source, you need to have installed the [Adobe Font Development Kit for OpenType](https://github.com/adobe-type-tools/afdko/) (AFDKO) tools. The AFDKO tools are widely used for font development today, and are part of most font editor apps.
 
-### Building the font
+### Building the fonts
 
-In this repository, all necessary files are in place for building the CID-keyed OpenType/CFF font, and the *build.sh* file can simply be executed.
+In this repository, all necessary files are in place for building the CID-keyed OpenType/CFF and TrueType fonts, and the *build.sh* file can simply be executed.
 
 ## Getting Involved
 
