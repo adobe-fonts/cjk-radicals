@@ -19,4 +19,4 @@ In this repository, all necessary files are in place for building the CID-keyed 
 
 ## Getting Involved
 
-Send suggestions for changes to the CJK Radicals project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20CJK%20Radicals), for consideration.
+Send suggestions for changes to the Adobe Type Development team, [Grp-fontdev@adobe.com](mailto:Grp-fontdev@adobe.com?subject=[GitHub]%20CJK%20Radicals), for consideration.
