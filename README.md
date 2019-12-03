@@ -19,4 +19,5 @@ In this repository, all necessary files are in place for building the CID-keyed 
 
 ## Getting Involved
 
-For any suggestions for changes, please create an issue here in GitHub for consideration.
+For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/cjk-radicals/issues) for consideration.
+
